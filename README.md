@@ -26,7 +26,7 @@
 
   **3.** Create Profit and Loss (P&L) reports by _[SubZone](https://github.com/Gauravbhus007/EXCEL-SALES-ANALYSTICS/blob/main/Gross%20Margin%20By%20Sub%20Zone.pdf)_
 
-- **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
+- **Purpose of Finance analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
 
